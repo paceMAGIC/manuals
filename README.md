@@ -1,6 +1,3 @@
-# manuals
-CIED Wizard manuals
-
 # CIED Wizard - Clinical Document Repository
 
 This repository is a dedicated file-host for the CIED Wizard MRI Safety Lookup Tool. It provides direct access to official manufacturer Instructions for Use (IFU) and Technical Manuals.
